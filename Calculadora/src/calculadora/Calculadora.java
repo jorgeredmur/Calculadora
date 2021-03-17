@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author JORGE MARTINEZ
+ * @author JORGE MARTINEZ MARQUES
  */
 public class Calculadora {
 
