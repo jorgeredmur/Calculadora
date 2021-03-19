@@ -12,6 +12,8 @@ package calculadora;
 // RAMA 1
 // Vamos a añadir un comentario para el número 3 del ejercicio. JORGE MARTINEZ
 // Cambio Clase desde GitHub punto 5
+// Paso 6 tarea 2
+// RAMA 2
 public class Calculadora {
 
     private int num1;
