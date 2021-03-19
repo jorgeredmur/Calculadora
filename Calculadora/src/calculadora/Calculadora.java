@@ -10,6 +10,7 @@ package calculadora;
  * @author JORGE MARTINEZ MARQUES
  */
 // RAMA 1
+// Vamos a añadir un comentario para el número 3 del ejercicio. JORGE MARTINEZ
 public class Calculadora {
 
     private int num1;
